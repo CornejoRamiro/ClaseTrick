@@ -1,34 +1,9 @@
 fileFormatVersion: 2
-guid: dc5f259dcb96f094e9744186cdb5056e
+guid: 3001717d0d9f5e34eb5a48d834ac95f0
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_House_Apertures_Atlas
-    second: {fileID: 2100000, guid: a0a551c2a02f72a49a531d3683e7ed9d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_House_Floor_A
-    second: {fileID: 2100000, guid: cca4ff531ace32c42b28c18f28e24ea1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_House_Floor_B
-    second: {fileID: 2100000, guid: 5ca73dfec26d4364cb420b12e2a66a9f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_House_Roof
-    second: {fileID: 2100000, guid: a2062e6d78ad4234bb24ded151a5d7de, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M_House_Wall
-    second: {fileID: 2100000, guid: 7e02f27bbbf27964ea977f8bc5ef9873, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -59,7 +34,11 @@ ModelImporter:
     clipAnimations: []
     isReadable: 0
   meshes:
-    lODScreenPercentages: []
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
     globalScale: 1
     meshCompression: 0
     addColliders: 0
