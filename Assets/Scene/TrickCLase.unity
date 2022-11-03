@@ -584,6 +584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: SM_GlassTower
       objectReference: {fileID: 0}
+    - target: {fileID: 2714852765911198404, guid: 6cc0e93ddbe18804e91a9f34b801fa7f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 4742473837712756890, guid: 6cc0e93ddbe18804e91a9f34b801fa7f, type: 3}
       propertyPath: m_LODs.Array.data[0].screenRelativeHeight
       value: 0.8835467

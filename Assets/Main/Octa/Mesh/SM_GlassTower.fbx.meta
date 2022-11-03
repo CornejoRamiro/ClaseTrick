@@ -3,7 +3,102 @@ guid: 6cc0e93ddbe18804e91a9f34b801fa7f
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_GlassTower_FloorInt
+    second: {fileID: 2100000, guid: f46c230f09038b548b8afcb675019770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_GlassTower_InteriorWall
+    second: {fileID: 2100000, guid: 21864d2e178bcdb4d859209e9a796612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DomeLobbyExt
+    second: {fileID: 2100000, guid: 9f362e4e723c0d64db0222e149eeefb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DomeLobbyExt_CutOut
+    second: {fileID: 2100000, guid: 126d0d08fdf471148b378851f32c2315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DomeLobbyExt_Opacity
+    second: {fileID: 2100000, guid: b65997e9ac3ea1e4287c3189aa6b0453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DoorWinCol
+    second: {fileID: 2100000, guid: a23c9e970c666ca4cac1fbde8d40565b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_DoorWinCol_Opacity
+    second: {fileID: 2100000, guid: 82bc7ea3c531a2b4fb609c7f7a56ac80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_ElevatorLampPedestal
+    second: {fileID: 2100000, guid: 23130af5180385440942df47fccb2d77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_ElevatorLampPedestal_Opacity
+    second: {fileID: 2100000, guid: 3647af016e781934d9d59341dde7510d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_Flowers_Card
+    second: {fileID: 2100000, guid: a8f8c5315678635498d1b8b644443fb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_InteriorTrim
+    second: {fileID: 2100000, guid: bc8bde9c4c9ad8c45a9c3bab92e85ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_InteriorTrim_Opacity
+    second: {fileID: 2100000, guid: 275ba6e4922629c4b91b43ed2ab1bd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_Ivy_Card
+    second: {fileID: 2100000, guid: d32e546129841a34e89f7d35d0a5fccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_Ivy_Card_LOD1
+    second: {fileID: 2100000, guid: 4f1df7cb298ca2f4ea053651bb936f53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_LOD2
+    second: {fileID: 2100000, guid: 18739cbf54dd2414a9ca4fed19ee2be0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_LOD3
+    second: {fileID: 2100000, guid: 7b064581082dabd4eab810bbbabee574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_Leaves_Card_LOD2_3
+    second: {fileID: 2100000, guid: 5556a887e623d9c449ed6c30496e2f30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_TowerLeaves
+    second: {fileID: 2100000, guid: 121462db703ce4f4f93d688267f4bd33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Glasstower_Vegetation_Seamless
+    second: {fileID: 2100000, guid: 96998d7e4631df644b7b7ef979d5f9a9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
